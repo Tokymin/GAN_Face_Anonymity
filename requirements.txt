@@ -1,0 +1,17 @@
+torch
+torchvision
+ipython
+ipykernel
+ipywidgets
+numpy
+scikit-learn
+scikit-image
+Pillow
+matplotlib
+tqdm
+opencv-python-headless
+urllib3
+# urllib3==1.26.6
+requests
+scipy
+ninja

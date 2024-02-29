@@ -1,0 +1,7 @@
+/datasets/*
+/models/pretrained/*
+/temp_results/*
+*.jpg
+/datasets/
+/models/pretrained/
+/temp_results/
